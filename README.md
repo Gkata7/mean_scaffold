@@ -16,7 +16,7 @@
   <li>Attribute Name</li>
   <li>Attribute Type</li>
   <li>Another Attribute in this Model? If yes, repeat step 3</li>
-  <li>Another Model? If yes, repeat step 2</li>
+  <li>Another Model? If yes, repeat step 2.</li>
 </ol>
 <hr>
 <h2>Associations</h2>
